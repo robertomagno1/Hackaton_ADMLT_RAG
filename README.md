@@ -148,11 +148,14 @@ id,answer
 
 ## 👨‍💻 Authors
 
-**Emanuele Iacca**  
-GitHub: [@emanueleiacca](https://github.com/emanueleiacca)  
+## 👨‍💻 Authors
 
-**Roberto Magno Mazzotta** <c>
-Github: [@robertomagno1](https://github.com/robertomagno1)
+- **Emanuele Iacca**  
+  GitHub: [@emanueleiacca](https://github.com/emanueleiacca)
+
+- **Roberto Magno Mazzotta**  
+  GitHub: [@robertomagno1](https://github.com/robertomagno1)
+
 
 Project: ADM-LT 2024 Hackathon Biomedical RAG
 ---
