@@ -1,5 +1,6 @@
 
-# 🧬 Hackaton_ADMLT_RAG — Biomedical RAG for Question Answering
+# 🧬 Hackaton_ADMLT_RAG 
+# Biomedical RAG for Question Answering
 
 This project was developed as part of the **ADM-LT 2024 Hackathon** with the goal of building a **Retrieval-Augmented Generation (RAG)** model for answering biomedical questions using a large corpus of scientific text.
 
