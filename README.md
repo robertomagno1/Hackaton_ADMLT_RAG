@@ -160,6 +160,4 @@ id,answer
 Project: ADM-LT 2024 Hackathon Biomedical RAG
 ---
 
-## 📜 License
 
-This project is released under the **MIT License**.
