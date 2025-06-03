@@ -151,7 +151,7 @@ id,answer
 **Emanuele Iacca**  
 GitHub: [@emanueleiacca](https://github.com/emanueleiacca)  
 
-**Roberto Magno Mazzotta** <cd>
+**Roberto Magno Mazzotta** <c>
 Github: [@robertomagno1](https://github.com/robertomagno1)
 
 Project: ADM-LT 2024 Hackathon Biomedical RAG
